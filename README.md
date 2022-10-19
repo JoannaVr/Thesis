@@ -1,4 +1,4 @@
-# Thesis
+# Emotions Classification from EEG Waves Using Deep Learning
 
 In this thesis an application is implemented, which classifies three types of emotions from EEG waves using deep learning methods. 
 The methodologies used were of MLP, Keras API, LSTM, GRU and CNN making direct comparison in order to show the optimal one. The data 
